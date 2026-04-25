@@ -18,7 +18,15 @@ A responsive front-end clone of the Whirlpool India homepage built using HTML an
 - Responsive Design
 
 ## Live Demo
-(Add your live link here)
+Primary (GitHub Pages):  
+https://kartikmishra0405.github.io/whirlpool-homepage-clone/
+
+Alternative (Netlify):  
+https://whirlpool-homepage-clone.netlify.app/
+
+## Note
+Some browsers may occasionally flag the GitHub Pages version due to phishing heuristics (the clone resembles a real commercial site too closely 😅).  
+If that happens, please use the Netlify link above.
 
 ## Screenshots
 <img width="1899" height="969" alt="image" src="https://github.com/user-attachments/assets/e598fbe8-42fc-4e0b-82da-9202fe1ad8cd" />
