@@ -2,6 +2,10 @@
 
 A responsive front-end clone of the Whirlpool India homepage built using HTML and CSS.
 
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-green)
+
 ## Features
 - Responsive design
 - Multi-section e-commerce layout
@@ -25,7 +29,7 @@ Alternative (Netlify):
 https://whirlpool-homepage-clone.netlify.app/
 
 ## Note
-Some browsers may occasionally flag the GitHub Pages version due to phishing heuristics (the clone resembles a real commercial site too closely 😅).  
+Some browsers may occasionally flag the GitHub Pages version due to phishing heuristics (the clone closely resembles a real commercial website 😅).  
 If that happens, please use the Netlify link above.
 
 ## Screenshots
