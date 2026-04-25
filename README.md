@@ -29,8 +29,7 @@ Alternative (Netlify):
 https://whirlpool-homepage-clone.netlify.app/
 
 ## Note
-Some browsers may occasionally flag the GitHub Pages version due to phishing heuristics (the clone closely resembles a real commercial website 😅).  
-If that happens, please use the Netlify link above.
+Some browsers may occasionally show a false phishing warning on the GitHub Pages deployment because the project closely resembles a real commercial website. If that happens, please use the Netlify deployment above.
 
 ## Screenshots
 <img width="1899" height="969" alt="image" src="https://github.com/user-attachments/assets/e598fbe8-42fc-4e0b-82da-9202fe1ad8cd" />
